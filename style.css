@@ -1,0 +1,19 @@
+window{
+	background-color: blue;
+}
+
+grid{
+	background-color: red;
+}
+#mychild {
+	background-color: orange;
+}
+
+#mychild1 {
+	background-color: black;
+}
+
+#mylabel {
+	font-size: 25px;
+	font-weight:300;
+}
